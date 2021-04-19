@@ -21,5 +21,5 @@
          
  ## Authors
  
- * **John Roden** - *Initial work* - [YourWebsite](https://example.com/)
+ * **John** - *Initial work* - [YourWebsite](https://example.com/)
 
